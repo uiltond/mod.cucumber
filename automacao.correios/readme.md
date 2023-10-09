@@ -1,4 +1,4 @@
-#Projeto de automação de testes - Site correios
+# Projeto de automação de testes - Site correios
 
 Este é um projeto de automação de testes para o site dos correios, implementei na funcionalidade consultar CEP, utilizando as tecnologias:
 
@@ -24,7 +24,7 @@ Siga os passos abaixo para instalar e executar os teste:
 1. Clone o repositório para o seu ambiente local.
 2. Navegue até a raiz do projeto e execute o comando: mvn test -Dtest=Executa
 
-# Relatório de Testes
+## Relatório de Testes
 
 Após a execução dos testes de automação, você pode acessar o relatório gerado com informações sobre teste bem-sucedidos, falhas e estatísticas de execução.
 Para acessar o relatório navegue até a pasta target na raiz do projeto local do seu projeto local no seu computador.
